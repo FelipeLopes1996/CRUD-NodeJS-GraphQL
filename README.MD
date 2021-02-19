@@ -1,3 +1,3 @@
-# crud com Graphql e NodeJS e MYSQL
+# crud com Graphql, NodeJS e MYSQL
 
 crud basico para estudar Graphql
